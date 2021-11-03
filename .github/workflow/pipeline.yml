@@ -2,7 +2,7 @@ name: Deploy react app with github actions
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
