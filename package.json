@@ -2,7 +2,7 @@
   "name": "deploy-react-app-with-github-actions",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ericthsi.github.io/",
+  "homepage": "https://ericthsi.github.io/Deploy-React-App-with-Github-Actions/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
